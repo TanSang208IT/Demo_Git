@@ -1,0 +1,5 @@
+Cách để tạo Local Repository: git init
+Khởi tạo thành công Local Repo thì sẽ có 1 file ẩn .git trong thư mục dự án
+Cách kết nối Local và Remotw với nhau: dùng lệnh git remote add origin kèm url đường dẫn tới source code trên remote
+Các bước đẩy Code lên Remote:
+B1:
